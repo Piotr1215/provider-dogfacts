@@ -33,8 +33,8 @@ import (
 	"github.com/crossplane/crossplane-runtime/pkg/reconciler/managed"
 	"github.com/crossplane/crossplane-runtime/pkg/resource"
 
-	"github.com/crossplane/provider-template/apis/sample/v1alpha1"
-	apisv1alpha1 "github.com/crossplane/provider-template/apis/v1alpha1"
+	"github.com/crossplane/provider-dogfacts/apis/sample/v1alpha1"
+	apisv1alpha1 "github.com/crossplane/provider-dogfacts/apis/v1alpha1"
 )
 
 const (
