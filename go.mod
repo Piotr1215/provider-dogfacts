@@ -1,4 +1,4 @@
-module github.com/crossplane/provider-dogfacts
+module github.com/Piotr1215/provider-dogfacts
 
 go 1.16
 
